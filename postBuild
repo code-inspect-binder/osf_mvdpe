@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/mvdpe_src/5. Code")' >> /home/jovyan/.Rprofile
